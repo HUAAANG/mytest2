@@ -1,6 +1,9 @@
 package com.itheima.pojo;
 
-public class product {
+/**
+ * 测试类
+ */
+public class Product {
 private String txt;
     private String idea;
 }
